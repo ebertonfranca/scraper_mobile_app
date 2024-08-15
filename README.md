@@ -30,7 +30,7 @@ Gerar reviews da google play e app store salvando em .csv:
 
 python scraper_android_ios.py
 
-Fazer anaálise de sentimento:
+Fazer análise de sentimento:
 
 python code.py <case_of_use|all> <google_play_csv_file> <app_store_csv_file>
 
