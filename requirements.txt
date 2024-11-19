@@ -1,0 +1,14 @@
+requests>=2.27
+streamlit>=1.40.1
+urllib3>=2.0
+ollama  # Última versão estável conhecida
+nltk>=3.8
+python-dotenv>=0.21
+langchain>=0.0.308
+langchain-openai>=0.1.0  # Última versão do wrapper para OpenAI
+pandas>=1.5.0  # Para compatibilidade com versões recentes do Python
+matplotlib
+google_play_scraper
+app_store_scraper
+
+
